@@ -1,0 +1,12 @@
+#!/bin/sh
+
+rofi -no-lazy-grab -show drun -theme $HOME/.config/polybar/scripts/themes/launcher.rasi
+
+        connected=$(xrandr --query | grep connected -w | awk '{print $1}')
+        echo "$connected" | while read line; do
+          if [[ $(xrandr --query | grep "$line" | grep primary) ]]; then
+              MONITOR="$line" polybar main-primary &
+          else
+            MONITOR="$line" polybar main &
+          fi
+	done
