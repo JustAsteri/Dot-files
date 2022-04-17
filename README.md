@@ -29,6 +29,8 @@
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
 - ssh
+- [zotero](https://www.zotero.org/)
+- [obsidian](https://obsidian.md/)
 
 ## Themes
 
