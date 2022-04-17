@@ -7,7 +7,7 @@ sudo apt install cmake cmake-data pkg-config python3-sphinx libcairo2-dev libxcb
 ## Software Used
 - bspwm
 - sxhkd
-- (rofi)[https://github.com/davatorium/rofi]
+- [rofi](https://github.com/davatorium/rofi)
 - polybar
 - ranger
 - zsh
