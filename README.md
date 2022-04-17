@@ -28,6 +28,7 @@
 - [google-chrome](https://www.google.com/intl/es/chrome/?brand=YTUH&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc1CBW7UPCZjCzc4M4rS_EB6wJcDDZ50xehPRisWAVWMxRCQiInVOcaAp9LEALw_wcB&gclsrc=aw.ds)
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
+- ssh
 
 ## Themes
 
