@@ -39,6 +39,7 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 - [obsidian](https://obsidian.md/)
 - [flow launcher](https://www.flowlauncher.com/)
 - [espanso](https://espanso.org/)
+- [sublime text]()
 
 ---
 
@@ -57,7 +58,7 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 ### ZSH
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-# Other Configs
+# Configs & Plugins
 ## Terminal
 
 ### Zsh
@@ -90,3 +91,13 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 ## Rofi
 1. Install "rofi themes": https://github.com/adi1090x/rofi
 2. Run the command `rofi-theme-selector` and select "sidebar"
+
+## Flow launcher
+### Plugins
+- FlowRaindrop
+- Obsidian
+- steam search
+- fancy emoji
+- clipboard history
+- libre translate
+- Youtube
