@@ -37,6 +37,8 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 - [neovim](https://github.com/neovim/neovim)
 - [zotero](https://www.zotero.org/)
 - [obsidian](https://obsidian.md/)
+- [flow launcher](https://www.flowlauncher.com/)
+- [espanso](https://espanso.org/)
 
 ---
 
