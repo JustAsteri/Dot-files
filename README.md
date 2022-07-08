@@ -1,5 +1,7 @@
 # Dotfiles
 
+## Linux
+
 > Distribution: Arch / Manjaro
 
 ## Intalation
@@ -20,7 +22,6 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 
 ## Software Used
 
-- [rofi](https://github.com/davatorium/rofi): 
 - [ranger](https://github.com/ranger/ranger):
 - [zsh](https://github.com/zsh-users/zsh): 
 - [tmux](https://github.com/tmux/tmux): 
@@ -28,18 +29,15 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 - [lsd](https://github.com/Peltoche/lsd)
 - [fzf](https://github.com/junegunn/fzf)
 - [htop](https://htop.dev/)
-- [spotify-client](https://www.spotify.com/us/download/linux/)
-- [gitkraken](https://www.gitkraken.com/git-client/try-free)
 - [flameshot]
 - [redshift](https://github.com/jonls/redshift)
-- [google-chrome](https://www.google.com/intl/es/chrome/?brand=YTUH&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc1CBW7UPCZjCzc4M4rS_EB6wJcDDZ50xehPRisWAVWMxRCQiInVOcaAp9LEALw_wcB&gclsrc=aw.ds)
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
-- [zotero](https://www.zotero.org/)
-- [obsidian](https://obsidian.md/)
 - [flow launcher](https://www.flowlauncher.com/)
 - [espanso](https://espanso.org/)
-- [sublime text]()
+- [anki](https://apps.ankiweb.net/)
+- [ticktick](https://ticktick.com/)
+- [calibre](https://calibre-ebook.com/download)
 
 ---
 
@@ -66,8 +64,50 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 
 ### Tmux
 
+## Neovim
+1. Move the folder "nvim" into the folder ~/.config/
+2. Install the "vim plug": https://github.com/junegunn/vim-plug
+3. Open neovim and write this command: `:PlugInstall`
+
+---
+
+## Windows
+
+## Software Used
+
+- [spotify-client](https://www.spotify.com/us/download/)
+- [gitkraken](https://www.gitkraken.com/git-client/try-free)
+- [shareX](https://getsharex.com/)
+- [google-chrome](https://www.google.com/intl/es_mx/chrome/)
+- [mpv](https://mpv.io/installation/)
+- [zotero](https://www.zotero.org/)
+- [obsidian](https://obsidian.md/)
+- [flow launcher](https://www.flowlauncher.com/)
+- [espanso](https://espanso.org/)
+- [sublime-text](https://www.sublimetext.com/)
+- [steam](https://store.steampowered.com/about/)
+- [epic-games-store](https://store.epicgames.com/es-MX/)
+- [powertoys](https://docs.microsoft.com/en-us/windows/powertoys/)
+- [everything](https://www.voidtools.com/)
+- [anki](https://apps.ankiweb.net/)
+- [mysql]()
+- [mysql-workbench]()
+- [qbitorrent](https://www.qbittorrent.org/)
+- [ticktick](https://ticktick.com/)
+- [rbtray](http://rbtray.sourceforge.net/)
+- [Textractor](https://github.com/Artikash/Textractor)
+- [adobe acrobat dc]()
+- [calibre](https://calibre-ebook.com/download)
+
+---
+
+# Universal Configs
+
+## Configs
+
 ## Sublime Text
 > Install "Package Control"
+
 ### Plugins
 - Emmet
 - Alignment
@@ -83,16 +123,11 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 - Color Scheme: dracula
 - Theme: ayu
 
-## Neovim
-1. Move the folder "nvim" into the folder ~/.config/
-2. Install the "vim plug": https://github.com/junegunn/vim-plug
-3. Open neovim and write this command: `:PlugInstall`
-
-## Rofi
-1. Install "rofi themes": https://github.com/adi1090x/rofi
-2. Run the command `rofi-theme-selector` and select "sidebar"
-
 ## Flow launcher
+
+### Theme
+- BlurBack darker
+
 ### Plugins
 - FlowRaindrop
 - Obsidian
@@ -101,3 +136,7 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 - clipboard history
 - libre translate
 - Youtube
+- everything
+- github quick launcher
+
+---
