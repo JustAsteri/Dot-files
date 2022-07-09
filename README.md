@@ -1,51 +1,48 @@
 # Dotfiles
 
-## Linux
-
-> Distribution: Arch / Manjaro
-
-## Intalation
-
-sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neovim
-
-### Manual Instalation
-
-- [google-chrome](https://www.itzgeek.com/how-tos/linux/arch-linux/how-to-install-google-chrome-on-arch-linux.html)
-- [zotero](https://www.zotero.org/)
-- [obsidian](https://obsidian.md/)
-- [spotify-client](https://www.spotify.com/us/download/linux/)
-- [gitkraken](https://snapcraft.io/install/gitkraken/arch)
-- [sublime-text](https://www.sublimetext.com/docs/linux_repositories.html#pacman)
-
-## Trobleshouting
-- sudo pacman -Syu
-
-## Software Used
-
-- [ranger](https://github.com/ranger/ranger):
-- [zsh](https://github.com/zsh-users/zsh): 
-- [tmux](https://github.com/tmux/tmux): 
-- [bat](https://github.com/sharkdp/bat)
-- [lsd](https://github.com/Peltoche/lsd)
-- [fzf](https://github.com/junegunn/fzf)
-- [htop](https://htop.dev/)
-- [flameshot]
-- [redshift](https://github.com/jonls/redshift)
-- [mpv](https://github.com/mpv-player/mpv)
-- [neovim](https://github.com/neovim/neovim)
-- [flow launcher](https://www.flowlauncher.com/)
+## Universal Packages
+- [google-chrome](https://www.google.com/intl/es_mx/chrome/)
+- [gitkraken](https://www.gitkraken.com/)
+- [sublime-text](https://www.sublimetext.com/)
 - [espanso](https://espanso.org/)
 - [anki](https://apps.ankiweb.net/)
 - [ticktick](https://ticktick.com/)
 - [calibre](https://calibre-ebook.com/download)
+- [steam](https://store.steampowered.com/about/)
+- [mysql-workbench]()
+- [qbitorrent](https://www.qbittorrent.org/)
+
+---
+
+## Linux
+
+> Distribution: Linux Lite
+
+## Intalation
+
+sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
+
+## Software Used
+
+- [lsd](https://github.com/Peltoche/lsd)
+- [ulauncher]()
+- [ranger](https://github.com/ranger/ranger):
+- [zsh](https://github.com/zsh-users/zsh): 
+- [tmux](https://github.com/tmux/tmux): 
+- [bat](https://github.com/sharkdp/bat)
+- [fzf](https://github.com/junegunn/fzf)
+- [htop](https://htop.dev/)
+- [flameshot]
+- [redshift](https://github.com/jonls/redshift)
+- [neovim](https://github.com/neovim/neovim)
+- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [oh-my-tmux](https://github.com/gpakosz/.tmux)
 
 ---
 
 - [bspwm](https://github.com/baskerville/bspwm)
 - [sxhkd](https://github.com/baskerville/sxhkd)
 - [polybar](https://github.com/polybar/polybar)
-- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
-- [oh-my-tmux](https://github.com/gpakosz/.tmux)
 - [picom](https://github.com/yshui/picom)
 - [gnome-terminal](https://github.com/GNOME/gnome-terminal)
 
@@ -75,35 +72,35 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 
 ## Software Used
 
-- [spotify-client](https://www.spotify.com/us/download/)
-- [gitkraken](https://www.gitkraken.com/git-client/try-free)
 - [shareX](https://getsharex.com/)
-- [google-chrome](https://www.google.com/intl/es_mx/chrome/)
-- [mpv](https://mpv.io/installation/)
-- [zotero](https://www.zotero.org/)
-- [obsidian](https://obsidian.md/)
-- [flow launcher](https://www.flowlauncher.com/)
-- [espanso](https://espanso.org/)
-- [sublime-text](https://www.sublimetext.com/)
-- [steam](https://store.steampowered.com/about/)
 - [epic-games-store](https://store.epicgames.com/es-MX/)
 - [powertoys](https://docs.microsoft.com/en-us/windows/powertoys/)
 - [everything](https://www.voidtools.com/)
-- [anki](https://apps.ankiweb.net/)
 - [mysql]()
-- [mysql-workbench]()
-- [qbitorrent](https://www.qbittorrent.org/)
-- [ticktick](https://ticktick.com/)
+- [flow launcher](https://www.flowlauncher.com/)
 - [rbtray](http://rbtray.sourceforge.net/)
 - [Textractor](https://github.com/Artikash/Textractor)
 - [adobe acrobat dc]()
-- [calibre](https://calibre-ebook.com/download)
+
+## Flow launcher
+
+### Theme
+- BlurBack darker
+
+### Plugins
+- FlowRaindrop
+- Obsidian
+- steam search
+- fancy emoji
+- clipboard history
+- libre translate
+- Youtube
+- everything
+- github quick launcher
 
 ---
 
 # Universal Configs
-
-## Configs
 
 ## Sublime Text
 > Install "Package Control"
@@ -122,21 +119,5 @@ sudo pacman -S rofi ranger zsh tmux bat lsd fzf htop flameshot redshift mpv neov
 ### Theme
 - Color Scheme: dracula
 - Theme: ayu
-
-## Flow launcher
-
-### Theme
-- BlurBack darker
-
-### Plugins
-- FlowRaindrop
-- Obsidian
-- steam search
-- fancy emoji
-- clipboard history
-- libre translate
-- Youtube
-- everything
-- github quick launcher
 
 ---
