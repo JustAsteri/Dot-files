@@ -2,8 +2,15 @@
 
 ## Universal Packages
 - [google-chrome](https://www.google.com/intl/es_mx/chrome/)
+<<<<<<< HEAD
 - [gitkraken](https://www.gitkraken.com/)
 - [sublime-text](https://www.sublimetext.com/)
+=======
+- [spotify-client](https://www.spotify.com/us/download/)
+- [gitkraken](https://snapcraft.io/install/gitkraken/)
+- [sublime-text](https://www.sublimetext.com/)
+- [flow launcher](https://www.flowlauncher.com/)
+>>>>>>> master
 - [espanso](https://espanso.org/)
 - [anki](https://apps.ankiweb.net/)
 - [ticktick](https://ticktick.com/)
@@ -11,9 +18,19 @@
 - [steam](https://store.steampowered.com/about/)
 - [mysql-workbench]()
 - [qbitorrent](https://www.qbittorrent.org/)
+<<<<<<< HEAD
+=======
 
 ---
 
+## Linux
+
+> Distribution: Arch / Manjaro
+>>>>>>> master
+
+---
+
+<<<<<<< HEAD
 ## Linux
 
 > Distribution: Linux Lite
@@ -21,11 +38,17 @@
 ## Intalation
 
 sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
+=======
+sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
+>>>>>>> master
 
 ## Software Used
 
 - [lsd](https://github.com/Peltoche/lsd)
+<<<<<<< HEAD
 - [ulauncher]()
+=======
+>>>>>>> master
 - [ranger](https://github.com/ranger/ranger):
 - [zsh](https://github.com/zsh-users/zsh): 
 - [tmux](https://github.com/tmux/tmux): 
@@ -77,6 +100,7 @@ sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim
 - [powertoys](https://docs.microsoft.com/en-us/windows/powertoys/)
 - [everything](https://www.voidtools.com/)
 - [mysql]()
+<<<<<<< HEAD
 - [flow launcher](https://www.flowlauncher.com/)
 - [rbtray](http://rbtray.sourceforge.net/)
 - [Textractor](https://github.com/Artikash/Textractor)
@@ -97,6 +121,11 @@ sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim
 - Youtube
 - everything
 - github quick launcher
+=======
+- [rbtray](http://rbtray.sourceforge.net/)
+- [Textractor](https://github.com/Artikash/Textractor)
+- [adobe acrobat dc]()
+>>>>>>> master
 
 ---
 
