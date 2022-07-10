@@ -1,16 +1,9 @@
 # Dotfiles
 
 ## Universal Packages
-- [google-chrome](https://www.google.com/intl/es_mx/chrome/)
-<<<<<<< HEAD
-- [gitkraken](https://www.gitkraken.com/)
-- [sublime-text](https://www.sublimetext.com/)
-=======
-- [spotify-client](https://www.spotify.com/us/download/)
+
 - [gitkraken](https://snapcraft.io/install/gitkraken/)
 - [sublime-text](https://www.sublimetext.com/)
-- [flow launcher](https://www.flowlauncher.com/)
->>>>>>> master
 - [espanso](https://espanso.org/)
 - [anki](https://apps.ankiweb.net/)
 - [ticktick](https://ticktick.com/)
@@ -18,19 +11,9 @@
 - [steam](https://store.steampowered.com/about/)
 - [mysql-workbench]()
 - [qbitorrent](https://www.qbittorrent.org/)
-<<<<<<< HEAD
-=======
 
 ---
 
-## Linux
-
-> Distribution: Arch / Manjaro
->>>>>>> master
-
----
-
-<<<<<<< HEAD
 ## Linux
 
 > Distribution: Linux Lite
@@ -38,17 +21,11 @@
 ## Intalation
 
 sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
-=======
-sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
->>>>>>> master
 
 ## Software Used
 
 - [lsd](https://github.com/Peltoche/lsd)
-<<<<<<< HEAD
 - [ulauncher]()
-=======
->>>>>>> master
 - [ranger](https://github.com/ranger/ranger):
 - [zsh](https://github.com/zsh-users/zsh): 
 - [tmux](https://github.com/tmux/tmux): 
@@ -63,10 +40,7 @@ sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbit
 
 ---
 
-- [bspwm](https://github.com/baskerville/bspwm)
-- [sxhkd](https://github.com/baskerville/sxhkd)
 - [polybar](https://github.com/polybar/polybar)
-- [picom](https://github.com/yshui/picom)
 - [gnome-terminal](https://github.com/GNOME/gnome-terminal)
 
 ---
@@ -85,6 +59,7 @@ sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbit
 ### Tmux
 
 ## Neovim
+
 1. Move the folder "nvim" into the folder ~/.config/
 2. Install the "vim plug": https://github.com/junegunn/vim-plug
 3. Open neovim and write this command: `:PlugInstall`
@@ -100,7 +75,6 @@ sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbit
 - [powertoys](https://docs.microsoft.com/en-us/windows/powertoys/)
 - [everything](https://www.voidtools.com/)
 - [mysql]()
-<<<<<<< HEAD
 - [flow launcher](https://www.flowlauncher.com/)
 - [rbtray](http://rbtray.sourceforge.net/)
 - [Textractor](https://github.com/Artikash/Textractor)
@@ -121,11 +95,6 @@ sudo apt install ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbit
 - Youtube
 - everything
 - github quick launcher
-=======
-- [rbtray](http://rbtray.sourceforge.net/)
-- [Textractor](https://github.com/Artikash/Textractor)
-- [adobe acrobat dc]()
->>>>>>> master
 
 ---
 
