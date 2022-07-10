@@ -24,6 +24,7 @@ sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim
 
 ## Software Used
 
+- [ulauncher](https://ulauncher.io/)
 - [lsd](https://github.com/Peltoche/lsd)
 - [ulauncher]()
 - [ranger](https://github.com/ranger/ranger):
@@ -57,6 +58,8 @@ sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim
 - Move the file `.zshrc` & `.p10k.zsh` into `home`.
 
 ### Tmux
+
+
 
 ## Neovim
 
