@@ -11,6 +11,7 @@
 - [steam](https://store.steampowered.com/about/)
 - [mysql-workbench]()
 - [qbitorrent](https://www.qbittorrent.org/)
+- [zeal-docs](https://zealdocs.org/)
 
 ---
 
