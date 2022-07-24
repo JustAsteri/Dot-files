@@ -16,20 +16,19 @@
 
 ## Linux
 
-> Distribution: Linux Lite
+> Distribution based on: Ubuntu
 
-## Intalation
+## Intalation 
 
-sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim qbitorrent
+> Read the `script.md` file to install all the packages.
 
 ## Software Used
 
 - [ulauncher](https://ulauncher.io/)
 - [lsd](https://github.com/Peltoche/lsd)
-- [ulauncher]()
-- [ranger](https://github.com/ranger/ranger):
-- [zsh](https://github.com/zsh-users/zsh): 
-- [tmux](https://github.com/tmux/tmux): 
+- [ranger](https://github.com/ranger/ranger)
+- [zsh](https://github.com/zsh-users/zsh)
+- [tmux](https://github.com/tmux/tmux)
 - [bat](https://github.com/sharkdp/bat)
 - [fzf](https://github.com/junegunn/fzf)
 - [htop](https://htop.dev/)
@@ -52,14 +51,20 @@ sudo apt install htop ranger zsh tmux bat fzf htop flameshot redshift mpv neovim
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 # Configs & Plugins
-## Terminal
+## uLauncher
+
+### Plugins
+- Emoji
+- obsidian
+- MyAnimeListLauncher
+- System
+- Process Murderes
+- Better file browser
+- Timer
+- Clipboard
 
 ### Zsh
 - Move the file `.zshrc` & `.p10k.zsh` into `home`.
-
-### Tmux
-
-
 
 ## Neovim
 

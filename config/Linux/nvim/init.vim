@@ -15,6 +15,8 @@ set termguicolors
 hi Normal guibg=NONE ctermbg=NONE
 source $HOME/.config/nvim/lotus.vim
 source $HOME/.config/nvim/lotusbar.vim
+source $HOME/.config/nvim/plugins.vim
+source $HOME/.config/nvim/plugins_conf.vim
 
 nnoremap ,<space> :CHADopen<CR>
 nnoremap <space>x :wq!<CR>
@@ -28,17 +30,6 @@ set foldcolumn=2
 hi foldcolumn guibg=bg
 hi VertSplit guibg=#302d38 guifg=#302d38
 autocmd vimenter * hi Normal guibg=NONE ctermbg=NONE " transparent bg
-
-" Plugins
-call plug#begin('~/.vim/plugged')
-
-"" IDE
-Plug 'easymotion/vim-easymotion'
-Plug 'scrooloose/nerdtree'
-Plug 'christoomey/vim-tmux-navigator'
-Plug 'jez/vim-better-sml'
-
-call plug#end()
 
 " Conf
 let NERDTreeQuitOnOpen=1
