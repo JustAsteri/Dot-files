@@ -3,15 +3,14 @@
 ## Universal Packages
 
 - [gitkraken](https://snapcraft.io/install/gitkraken/)
-- [sublime-text](https://www.sublimetext.com/)
 - [espanso](https://espanso.org/)
 - [anki](https://apps.ankiweb.net/)
-- [ticktick](https://ticktick.com/)
 - [calibre](https://calibre-ebook.com/download)
 - [steam](https://store.steampowered.com/about/)
 - [mysql-workbench]()
 - [qbitorrent](https://www.qbittorrent.org/)
 - [zeal-docs](https://zealdocs.org/)
+- [visual-studio-code]()
 
 ---
 
